@@ -300,7 +300,7 @@ def osm_polygon_download(query, limit=1, polygon_geojson=1, pause_duration=1):
     return response_json
     
 
-def gdf_from_place(query, gdf_name=None, which_result=1, buffer_dist=None):
+def gdf_from_place(query, gdf_name=None, which_result=1, buffer_dist=None, name_lng='display_name'):
     """
     Create a GeoDataFrame from a single place name query.
     
@@ -330,7 +330,7 @@ def gdf_from_place(query, gdf_name=None, which_result=1, buffer_dist=None):
         result = data[which_result - 1]
         bbox_south, bbox_north, bbox_west, bbox_east = [float(x) for x in result['boundingbox']]
         geometry = result['geojson']
-        place = result['display_name']
+        place = result[name_lng]
         features = [{'type': 'Feature',
                      'geometry': geometry,
                      'properties': {'place_name': place,
