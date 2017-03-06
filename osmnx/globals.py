@@ -9,7 +9,7 @@ import logging as lg
 
 
 # default locations to save data, logs, images, and cache
-data_folder = 'data'
+data_folder = '../../../../data'
 logs_folder = 'logs'
 imgs_folder = 'images'
 cache_folder = 'cache'
