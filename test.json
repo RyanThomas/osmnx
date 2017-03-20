@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "type": "node",
+        "id": 27508651,
+        "lat": 59.4232987,
+        "lon": 24.7961759,
+        "tags": {
+          "name": "\u00dclemiste",
+          "name:ru": "\u042e\u043b\u0435\u043c\u0438\u0441\u0442\u0435",
+          "railway": "station",
+          "tln_ID": "10877;10878"
+        },
+        "score": 0.001852458047228121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7961759,
+          59.4232987
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 27511484,
+        "lat": 59.3874998,
+        "lon": 24.7230461,
+        "tags": {
+          "name": "Liiva",
+          "name:ru": "\u041b\u0438\u0439\u0432\u0430",
+          "railway": "station"
+        },
+        "score": 0.00024644233894527943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7230461,
+          59.3874998
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 29163112,
+        "lat": 59.3690524,
+        "lon": 24.640403,
+        "tags": {
+          "name": "P\u00e4\u00e4sk\u00fcla",
+          "name:ru": "\u041f\u044f\u044d\u0441\u043a\u044e\u043b\u0430",
+          "railway": "station",
+          "tln_ID": "10741;10742"
+        },
+        "score": 6.57351326410026e-06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.640403,
+          59.3690524
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 29163173,
+        "lat": 59.3547554,
+        "lon": 24.6277366,
+        "tags": {
+          "name": "Laagri",
+          "name:ru": "\u041b\u0430\u0430\u0433\u0440\u0438",
+          "railway": "station"
+        },
+        "score": 0.0004228601970466423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6277366,
+          59.3547554
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 82476044,
+        "lat": 59.4127459,
+        "lon": 24.7459473,
+        "tags": {
+          "name": "Tallinn-V\u00e4ike",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d-\u0412\u044f\u0439\u043a\u0435",
+          "railway": "station"
+        },
+        "score": 2.6539314958868608e-05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7459473,
+          59.4127459
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 650927310,
+        "lat": 59.4399988,
+        "lon": 24.7359761,
+        "tags": {
+          "alt_name": "Tallinn-Balti",
+          "alt_name:et": "Tallinn-Balti",
+          "alt_name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d-\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0438\u0439",
+          "esr:user": "081402",
+          "name": "Tallinn",
+          "name:et": "Tallinn",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d",
+          "note": "\"Tallinn\" is name of station and \"Balti jaam\" is name of railway terminal",
+          "railway": "station",
+          "railway:ref:DB": "ZETN",
+          "uic_name": "Tallinn",
+          "uic_ref": "2600080"
+        },
+        "score": 0.002554701086423334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7359761,
+          59.4399988
+        ]
+      },
+      "type": "Feature"
+    }
+  ]
+}

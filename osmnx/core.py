@@ -1476,7 +1476,6 @@ def osm_net_download_amenities(polygon=None, north=None, south=None, east=None, 
             else:
                 query_template = '[out:json][timeout:{timeout}]{maxsize};(node["railway"="station"]{filters}({south:.8f},{west:.8f},{north:.8f},{east:.8f});>;);out;'
             query_str = query_template.format(north=north, south=south, east=east, west=west, filters=osm_filter, timeout=timeout, maxsize=maxsize)
-            print(query_str)
             response_json = overpass_request(data={'data':query_str}, timeout=timeout)
             response_jsons.append(response_json)
         log('Got all network data within bounding box from API in {:,} request(s) and {:,.2f} seconds'.format(len(geometry), time.time()-start_time))
@@ -1497,7 +1496,6 @@ def osm_net_download_amenities(polygon=None, north=None, south=None, east=None, 
             else:
                 query_template = '[out:json][timeout:{timeout}]{maxsize};(node["railway"="station"]{filters}(poly:"{polygon}");>;);out;'
             query_str = query_template.format(polygon=polygon_coord_str, filters=osm_filter, timeout=timeout, maxsize=maxsize)
-            print(query_str)
             response_json = overpass_request(data={'data':query_str}, timeout=timeout)
             response_jsons.append(response_json)
         log('Got all network data within polygon from API in {:,} request(s) and {:,.2f} seconds'.format(len(polygon_coord_strs), time.time()-start_time))
@@ -1530,7 +1528,7 @@ def amenities_from_polygon(polygon, network_type='amenity', simplify=True, retai
     # verify that the geometry is valid and is a shapely Polygon/MultiPolygon before proceeding
     if not polygon.is_valid:
         raise ValueError('Shape does not have a valid geometry')
-    if not isinstance(polygon, (Polygon, MultiPolygon)):
+    if not isinstance(polygon, (Polygon, MultiPolygon, Point)):
         raise ValueError('Geometry must be a shapely Polygon or MultiPolygon')
 
     if clean_periphery and simplify:
@@ -1548,3 +1546,25 @@ def amenities_from_polygon(polygon, network_type='amenity', simplify=True, retai
         response_jsons = osm_net_download_amenities(polygon=polygon, network_type=network_type, timeout=timeout, memory=memory, max_query_area_size=max_query_area_size)
 
     return response_jsons
+
+def amenities_from_place(query, network_type='all_private', simplify=True, retain_all=False,
+                     truncate_by_edge=False, name='unnamed', which_result=1, buffer_dist=None, timeout=180, memory=None, max_query_area_size=50*1000*50*1000, clean_periphery=True):
+
+    # create a GeoDataFrame with the spatial boundaries of the place(s)
+    if isinstance(query, str) or isinstance(query, dict):
+        # if it is a string (place name) or dict (structured place query), then it is a single place
+        gdf_place = gdf_from_place(query, which_result=which_result, buffer_dist=buffer_dist)
+        name = query
+    elif isinstance(query, list):
+        # if it is a list, it contains multiple places to get
+        gdf_place = gdf_from_places(query, buffer_dist=buffer_dist)
+    else:
+        raise ValueError('query must be a string or a list of query strings')
+
+    # extract the geometry from the GeoDataFrame to use in API query
+    polygon = gdf_place['geometry'].unary_union
+    log('Constructed place geometry polygon(s) to query API')
+
+    # download amenities within geometry.
+    G = amenities_from_polygon(polygon, network_type=network_type)
+    return G
