@@ -1474,7 +1474,7 @@ def osm_net_download_amenities(polygon=None, north=None, south=None, east=None, 
             if network_type != 'station':
                 query_template = '[out:json][timeout:{timeout}]{maxsize};(node["amenity"]{filters}({south:.8f},{west:.8f},{north:.8f},{east:.8f});>;);out;'
             else:
-                query_template = '[out:json][timeout:{timeout}]{maxsize};(node["railway"="station"]{filters}({south:.8f},{west:.8f},{north:.8f},{east:.8f});>;);out;'
+                query_template = '[out:json][timeout:{timeout}]{maxsize};(node[~"railway|public_transport"~"station|stop_position"][!"bus"]{filters}({south:.8f},{west:.8f},{north:.8f},{east:.8f});>;);out;'
             query_str = query_template.format(north=north, south=south, east=east, west=west, filters=osm_filter, timeout=timeout, maxsize=maxsize)
             response_json = overpass_request(data={'data':query_str}, timeout=timeout)
             response_jsons.append(response_json)
@@ -1494,7 +1494,7 @@ def osm_net_download_amenities(polygon=None, north=None, south=None, east=None, 
             if network_type != 'station':
                 query_template = '[out:json][timeout:{timeout}]{maxsize};(node["amenity"]{filters}(poly:"{polygon}");>;);out;'
             else:
-                query_template = '[out:json][timeout:{timeout}]{maxsize};(node["railway"="station"]{filters}(poly:"{polygon}");>;);out;'
+                query_template = '[out:json][timeout:{timeout}]{maxsize};(node[~"railway|public_transport"~"station|stop_position"][!"bus"]{filters}(poly:"{polygon}");>;);out;'
             query_str = query_template.format(polygon=polygon_coord_str, filters=osm_filter, timeout=timeout, maxsize=maxsize)
             response_json = overpass_request(data={'data':query_str}, timeout=timeout)
             response_jsons.append(response_json)

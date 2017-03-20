@@ -1,0 +1,2700 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "type": "node",
+        "id": 11790498,
+        "lat": 59.3976726,
+        "lon": 24.6632795,
+        "tags": {
+          "name": "Raja",
+          "public_transport": "stop_position"
+        },
+        "score": 15.159083589962608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6632795,
+          59.3976726
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 27508651,
+        "lat": 59.4232987,
+        "lon": 24.7961759,
+        "tags": {
+          "name": "\u00dclemiste",
+          "name:ru": "\u042e\u043b\u0435\u043c\u0438\u0441\u0442\u0435",
+          "railway": "station",
+          "tln_ID": "10877;10878"
+        },
+        "score": 222.85656352853826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7961759,
+          59.4232987
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 27511484,
+        "lat": 59.3874998,
+        "lon": 24.7230461,
+        "tags": {
+          "name": "Liiva",
+          "name:ru": "\u041b\u0438\u0439\u0432\u0430",
+          "railway": "station"
+        },
+        "score": 7.628426759475648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7230461,
+          59.3874998
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 29163112,
+        "lat": 59.3690524,
+        "lon": 24.640403,
+        "tags": {
+          "name": "P\u00e4\u00e4sk\u00fcla",
+          "name:ru": "\u041f\u044f\u044d\u0441\u043a\u044e\u043b\u0430",
+          "railway": "station",
+          "tln_ID": "10741;10742"
+        },
+        "score": 0.06812733541898643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.640403,
+          59.3690524
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 29163173,
+        "lat": 59.3547554,
+        "lon": 24.6277366,
+        "tags": {
+          "name": "Laagri",
+          "name:ru": "\u041b\u0430\u0430\u0433\u0440\u0438",
+          "railway": "station"
+        },
+        "score": 15.317558368510024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6277366,
+          59.3547554
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 60294638,
+        "lat": 59.4375025,
+        "lon": 24.7533366,
+        "tags": {
+          "name": "Mere puiestee",
+          "name:ru": "\u041c\u0435\u0440\u0435 \u043f\u0443\u0438\u0435\u0441\u0442\u0435\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 524910.9232768117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7533366,
+          59.4375025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 60445340,
+        "lat": 59.440118,
+        "lon": 24.785584,
+        "tags": {
+          "name": "J. Poska",
+          "name:ru": "\u0419. \u041f\u043e\u0441\u043a\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "score": 1448.0154679233754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.785584,
+          59.440118
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 61800000,
+        "lat": 59.4288547,
+        "lon": 24.7430593,
+        "tags": {
+          "name": "Kosmos",
+          "name:ru": "\u041a\u043e\u0441\u043c\u043e\u0441",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 1053.1149331754007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7430593,
+          59.4288547
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 61801683,
+        "lat": 59.4112076,
+        "lon": 24.7341502,
+        "tags": {
+          "name": "Tondi",
+          "name:ru": "\u0422\u043e\u043d\u0434\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 5.176480033403006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7341502,
+          59.4112076
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 61801690,
+        "lat": 59.4098187,
+        "lon": 24.7360604,
+        "tags": {
+          "name": "Kalev",
+          "name:ee": "Kalev",
+          "name:ru": "\u041a\u0430\u043b\u0435\u0432",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 30.881699643701673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7360604,
+          59.4098187
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 61801698,
+        "lat": 59.4144337,
+        "lon": 24.7394201,
+        "tags": {
+          "name": "Tallinn-V\u00e4ike",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d-\u0412\u044f\u0439\u043a\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 40.87338917373174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7394201,
+          59.4144337
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 76458858,
+        "lat": 59.4318083,
+        "lon": 24.7678648,
+        "tags": {
+          "name": "Keskturg",
+          "name:ru": "\u041a\u0435\u0441\u043a\u0442\u0443\u0440\u0433",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 4003.1962016184057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7678648,
+          59.4318083
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 76458868,
+        "lat": 59.4273598,
+        "lon": 24.778835,
+        "tags": {
+          "name": "Lubja",
+          "name:ru": "\u041b\u0443\u0431\u044c\u044f",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 264.6254807779031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.778835,
+          59.4273598
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 76458970,
+        "lat": 59.4410655,
+        "lon": 24.7384345,
+        "tags": {
+          "name": "Balti jaam",
+          "name:de": "Baltischer Bahnhof",
+          "name:en": "Baltic Station",
+          "name:et": "Balti jaam",
+          "name:it": "Stazione Baltica",
+          "name:nl": "Baltisch Station",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 6140.005745881609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7384345,
+          59.4410655
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 82476044,
+        "lat": 59.4127459,
+        "lon": 24.7459473,
+        "tags": {
+          "name": "Tallinn-V\u00e4ike",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d-\u0412\u044f\u0439\u043a\u0435",
+          "railway": "station"
+        },
+        "score": 3.4102543165206978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7459473,
+          59.4127459
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 290941670,
+        "lat": 59.3969341,
+        "lon": 24.6665074,
+        "tags": {
+          "name": "Keemia",
+          "public_transport": "stop_position"
+        },
+        "score": 32.462976713474205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6665074,
+          59.3969341
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 308994907,
+        "lat": 59.4355836,
+        "lon": 24.7500077,
+        "tags": {
+          "name": "Viru",
+          "name:ru": "\u0412\u0438\u0440\u0443",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 113811.94496525227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7500077,
+          59.4355836
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 312955824,
+        "lat": 59.4301911,
+        "lon": 24.7362347,
+        "tags": {
+          "name": "T\u00f5nism\u00e4gi",
+          "public_transport": "stop_position"
+        },
+        "score": 475.21857856341177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7362347,
+          59.4301911
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 312958778,
+        "lat": 59.4291542,
+        "lon": 24.7294876,
+        "tags": {
+          "name": "Koidu",
+          "public_transport": "stop_position"
+        },
+        "score": 189.60116525691006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7294876,
+          59.4291542
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 312961304,
+        "lat": 59.4327184,
+        "lon": 24.7458084,
+        "tags": {
+          "name": "Vabaduse v\u00e4ljak",
+          "name:ru": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0441\u0432\u043e\u0431\u043e\u0434\u044b",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 15728.282347387052
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7458084,
+          59.4327184
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 344389521,
+        "lat": 59.4372304,
+        "lon": 24.7582753,
+        "tags": {
+          "copyright": "\u00a9 2002-2007 Tallinna Transpordiamet",
+          "highway": "bus_stop",
+          "name": "Hobujaama",
+          "name:ru": "\u0425\u043e\u0431\u0443\u044f\u0430\u043c\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "source": "http://soiduplaan.tallinn.ee/cache/stops.txt",
+          "tln_ID": "1305",
+          "tram": "yes",
+          "wheelchair": "no"
+        },
+        "score": 110026.55680891473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7582753,
+          59.4372304
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 612602579,
+        "lat": 59.4384018,
+        "lon": 24.7711386,
+        "tags": {
+          "name": "Tallinna \u00dclikool",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "score": 5049.447918543765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7711386,
+          59.4384018
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 650927310,
+        "lat": 59.4399988,
+        "lon": 24.7359761,
+        "tags": {
+          "alt_name": "Tallinn-Balti",
+          "alt_name:et": "Tallinn-Balti",
+          "alt_name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d-\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0438\u0439",
+          "esr:user": "081402",
+          "name": "Tallinn",
+          "name:et": "Tallinn",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d",
+          "note": "\"Tallinn\" is name of station and \"Balti jaam\" is name of railway terminal",
+          "railway": "station",
+          "railway:ref:DB": "ZETN",
+          "uic_name": "Tallinn",
+          "uic_ref": "2600080"
+        },
+        "score": 2438.3603981636084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7359761,
+          59.4399988
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322590,
+        "lat": 59.4143314,
+        "lon": 24.7384786,
+        "tags": {
+          "name": "Tallinn-V\u00e4ike",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d-\u0412\u044f\u0439\u043a\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 64.82848036477165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7384786,
+          59.4143314
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322604,
+        "lat": 59.4246658,
+        "lon": 24.7426831,
+        "tags": {
+          "name": "Vineeri",
+          "name:ru": "\u0412\u0438\u043d\u0435\u0435\u0440\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 90.93798170676327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7426831,
+          59.4246658
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322609,
+        "lat": 59.4336717,
+        "lon": 24.7620839,
+        "tags": {
+          "name": "Paberi",
+          "name:ru": "\u041f\u0430\u0431\u0435\u0440\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 5638.144973988629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7620839,
+          59.4336717
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322615,
+        "lat": 59.4284218,
+        "lon": 24.7764167,
+        "tags": {
+          "name": "Autobussijaam",
+          "name:ru": "\u0410\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 830.1007042629448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7764167,
+          59.4284218
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322621,
+        "lat": 59.4362998,
+        "lon": 24.7522537,
+        "tags": {
+          "name": "Viru",
+          "name:ru": "\u0412\u0438\u0440\u0443",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 593123.0044385871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7522537,
+          59.4362998
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322632,
+        "lat": 59.4387701,
+        "lon": 24.7772663,
+        "tags": {
+          "name": "L. Koidula",
+          "name:ru": "\u041b. \u041a\u043e\u0439\u0434\u0443\u043b\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "score": 347.99994877709275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7772663,
+          59.4387701
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322636,
+        "lat": 59.4386716,
+        "lon": 24.7839241,
+        "tags": {
+          "name": "Kadriorg",
+          "name:ru": "\u041a\u0430\u0434\u0440\u0438\u043e\u0440\u0433",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "score": 306.7681115089762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7839241,
+          59.4386716
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322657,
+        "lat": 59.4261862,
+        "lon": 24.8012463,
+        "tags": {
+          "name": "Pae",
+          "name:ru": "\u041f\u0430\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 46.51082292636846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8012463,
+          59.4261862
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 674322665,
+        "lat": 59.4264929,
+        "lon": 24.8080896,
+        "tags": {
+          "name": "V\u00e4ike-Paala",
+          "name:ru": "\u0412\u044f\u0439\u043a\u0435-\u041f\u0430\u0430\u043b\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 23.665792146534258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8080896,
+          59.4264929
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 905936156,
+        "lat": 59.4318841,
+        "lon": 24.7676891,
+        "tags": {
+          "name": "Keskturg",
+          "name:ru": "\u041a\u0435\u0441\u043a\u0442\u0443\u0440\u0433",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 4963.191823782551
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7676891,
+          59.4318841
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 905936329,
+        "lat": 59.4268002,
+        "lon": 24.8138607,
+        "tags": {
+          "name": "\u00dclemiste",
+          "name:ru": "\u042e\u043b\u0435\u043c\u0438\u0441\u0442\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 24.450809957814077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8138607,
+          59.4268002
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 905936376,
+        "lat": 59.4285257,
+        "lon": 24.7762649,
+        "tags": {
+          "name": "Autobussijaam",
+          "name:ru": "\u0410\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 2045.177468737703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7762649,
+          59.4285257
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 905936487,
+        "lat": 59.4265149,
+        "lon": 24.8076786,
+        "tags": {
+          "name": "V\u00e4ike-Paala",
+          "name:ru": "\u0412\u044f\u0439\u043a\u0435-\u041f\u0430\u0430\u043b\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 23.439411508028044
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8076786,
+          59.4265149
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 905936747,
+        "lat": 59.4275205,
+        "lon": 24.7785839,
+        "tags": {
+          "name": "Lubja",
+          "name:ru": "\u041b\u0443\u0431\u044c\u044f",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 331.45172204724446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7785839,
+          59.4275205
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906669109,
+        "lat": 59.4372565,
+        "lon": 24.7578779,
+        "tags": {
+          "name": "Hobujaama",
+          "name:ru": "\u0425\u043e\u0431\u0443\u044f\u0430\u043c\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "no"
+        },
+        "score": 74260.02780413204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7578779,
+          59.4372565
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906669235,
+        "lat": 59.4338093,
+        "lon": 24.7619518,
+        "tags": {
+          "name": "Paberi",
+          "name:ru": "\u041f\u0430\u0431\u0435\u0440\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 6980.920235730101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7619518,
+          59.4338093
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906669453,
+        "lat": 59.4384901,
+        "lon": 24.7715422,
+        "tags": {
+          "name": "Tallinna \u00dclikool",
+          "name:ru": "\u0422\u0430\u043b\u043b\u0438\u043d\u043d\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "score": 2913.726011949219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7715422,
+          59.4384901
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906706645,
+        "lat": 59.4289978,
+        "lon": 24.7431453,
+        "tags": {
+          "name": "Kosmos",
+          "name:ru": "\u041a\u043e\u0441\u043c\u043e\u0441",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 1768.763487496321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7431453,
+          59.4289978
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906706778,
+        "lat": 59.4245591,
+        "lon": 24.7426253,
+        "tags": {
+          "name": "Vineeri",
+          "name:ru": "\u0412\u0438\u043d\u0435\u0435\u0440\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 100.43687545857485
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7426253,
+          59.4245591
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832698,
+        "lat": 59.4264929,
+        "lon": 24.7965887,
+        "tags": {
+          "name": "Majaka p\u00f5ik",
+          "name:ru": "\u041c\u0430\u044f\u043a\u0430 \u043f\u044b\u0439\u043a",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 57.02213493365288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7965887,
+          59.4264929
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832787,
+        "lat": 59.4298025,
+        "lon": 24.7867598,
+        "tags": {
+          "name": "Majaka",
+          "name:ru": "\u041c\u0430\u044f\u043a\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 1013.1593138415177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7867598,
+          59.4298025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832794,
+        "lat": 59.441211,
+        "lon": 24.7392008,
+        "tags": {
+          "name": "Balti jaam",
+          "name:de": "Baltischer Bahnhof",
+          "name:en": "Baltic Station",
+          "name:et": "Balti jaam",
+          "name:it": "Stazione Baltica",
+          "name:nl": "Baltisch Station",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 6839.206460529769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7392008,
+          59.441211
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832833,
+        "lat": 59.4299028,
+        "lon": 24.7865582,
+        "tags": {
+          "name": "Majaka",
+          "name:ru": "\u041c\u0430\u044f\u043a\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 1335.9922476820284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7865582,
+          59.4299028
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832838,
+        "lat": 59.4265177,
+        "lon": 24.7966164,
+        "tags": {
+          "name": "Majaka p\u00f5ik",
+          "name:ru": "\u041c\u0430\u044f\u043a\u0430 \u043f\u044b\u0439\u043a",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 56.72617051780898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7966164,
+          59.4265177
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832865,
+        "lat": 59.4378381,
+        "lon": 24.7536402,
+        "tags": {
+          "name": "Mere puiestee",
+          "name:ru": "\u041c\u0435\u0440\u0435 \u043f\u0443\u0438\u0435\u0441\u0442\u0435\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 256117.6745587921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7536402,
+          59.4378381
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832886,
+        "lat": 59.4279876,
+        "lon": 24.7923441,
+        "tags": {
+          "name": "Sikupilli",
+          "name:ru": "\u0421\u0438\u043a\u0443\u043f\u0438\u043b\u043b\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 158.4061421880995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7923441,
+          59.4279876
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 906832943,
+        "lat": 59.4279392,
+        "lon": 24.7923881,
+        "tags": {
+          "name": "Sikupilli",
+          "name:ru": "\u0421\u0438\u043a\u0443\u043f\u0438\u043b\u043b\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 167.24256117312567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7923881,
+          59.4279392
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1005372217,
+        "lat": 59.3989198,
+        "lon": 24.6834962,
+        "tags": {
+          "name": "Liivaku",
+          "public_transport": "stop_position"
+        },
+        "score": 2.7891579643605637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6834962,
+          59.3989198
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1252526030,
+        "lat": 59.4001282,
+        "lon": 24.6595121,
+        "tags": {
+          "name": "Mustam\u00e4e",
+          "public_transport": "stop_position"
+        },
+        "score": 4.840308765905997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6595121,
+          59.4001282
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1453888169,
+        "lat": 59.4111575,
+        "lon": 24.734036,
+        "tags": {
+          "name": "Tondi",
+          "name:ru": "\u0422\u043e\u043d\u0434\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 5.692127105510737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.734036,
+          59.4111575
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1460397036,
+        "lat": 59.4264716,
+        "lon": 24.7965591,
+        "tags": {
+          "bench": "no",
+          "name": "Majaka p\u00f5ik",
+          "public_transport": "stop_position",
+          "shelter": "no",
+          "tactile_paving": "no"
+        },
+        "score": 57.276522956821374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7965591,
+          59.4264716
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1460397042,
+        "lat": 59.426535,
+        "lon": 24.7966416,
+        "tags": {
+          "bench": "yes",
+          "name": "Majaka p\u00f5ik",
+          "public_transport": "stop_position",
+          "shelter": "yes",
+          "tactile_paving": "no"
+        },
+        "score": 56.52084715911528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7966416,
+          59.426535
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1460397229,
+        "lat": 59.4268356,
+        "lon": 24.8138514,
+        "tags": {
+          "name": "\u00dclemiste",
+          "name:ru": "\u042e\u043b\u0435\u043c\u0438\u0441\u0442\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 26.048583635438046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8138514,
+          59.4268356
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692352,
+        "lat": 59.4500367,
+        "lon": 24.7099179,
+        "tags": {
+          "name": "Angerja",
+          "name:ru": "\u0410\u043d\u0433\u0435\u0440\u044c\u044f",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 92.0982256915355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7099179,
+          59.4500367
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692359,
+        "lat": 59.450137,
+        "lon": 24.709672,
+        "tags": {
+          "name": "Angerja",
+          "name:ru": "\u0410\u043d\u0433\u0435\u0440\u044c\u044f",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 114.67833695588746
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.709672,
+          59.450137
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692384,
+        "lat": 59.4612423,
+        "lon": 24.6675104,
+        "tags": {
+          "highway": "bus_stop",
+          "name": "Kopli",
+          "public_transport": "stop_position",
+          "trolleybus": "yes"
+        },
+        "score": 32.902161654516846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6675104,
+          59.4612423
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692385,
+        "lat": 59.4612492,
+        "lon": 24.6677968,
+        "tags": {
+          "name": "Kopli",
+          "name:ee": "Kopli",
+          "name:ru": "\u041a\u043e\u043f\u043b\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 43.70414382761932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6677968,
+          59.4612492
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692399,
+        "lat": 59.4612761,
+        "lon": 24.6690758,
+        "tags": {
+          "name": "Kopli",
+          "name:ee": "Kopli",
+          "name:ru": "\u041a\u043e\u043f\u043b\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 54.456011066977005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6690758,
+          59.4612761
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692408,
+        "lat": 59.4612995,
+        "lon": 24.6691155,
+        "tags": {
+          "name": "Kopli",
+          "name:ee": "Kopli",
+          "name:ru": "\u041a\u043e\u043f\u043b\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 61.05823622518063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6691155,
+          59.4612995
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692445,
+        "lat": 59.4433806,
+        "lon": 24.7501047,
+        "tags": {
+          "name": "Linnahall",
+          "name:ee": "Linnahall",
+          "name:ru": "\u041b\u0438\u043d\u043d\u0430\u0445\u0430\u043b\u044c",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 3968.555968369024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7501047,
+          59.4433806
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692452,
+        "lat": 59.4434375,
+        "lon": 24.7499909,
+        "tags": {
+          "name": "Linnahall",
+          "name:ee": "Linnahall",
+          "name:ru": "\u041b\u0438\u043d\u043d\u0430\u0445\u0430\u043b\u044c",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 3927.429568779698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7499909,
+          59.4434375
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692467,
+        "lat": 59.4551251,
+        "lon": 24.6894913,
+        "tags": {
+          "name": "Maleva",
+          "name:ru": "\u041c\u0430\u043b\u0435\u0432\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 41.57240154484637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6894913,
+          59.4551251
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692471,
+        "lat": 59.4551512,
+        "lon": 24.6892125,
+        "tags": {
+          "name": "Maleva",
+          "name:ru": "\u041c\u0430\u043b\u0435\u0432\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 36.67746575825812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6892125,
+          59.4551512
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692492,
+        "lat": 59.4436576,
+        "lon": 24.7435822,
+        "tags": {
+          "name": "P\u00f5hja puiestee",
+          "name:ru": "\u041f\u044b\u0445\u044c\u044f \u043f\u0443\u0438\u0435\u0441\u0442\u0435\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 1910.3615471689793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7435822,
+          59.4436576
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692505,
+        "lat": 59.4442255,
+        "lon": 24.7449508,
+        "tags": {
+          "name": "P\u00f5hja puiestee",
+          "name:ru": "\u041f\u044b\u0445\u044c\u044f \u043f\u0443\u0438\u0435\u0441\u0442\u0435\u0435",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 1453.5232940036549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7449508,
+          59.4442255
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692521,
+        "lat": 59.4602317,
+        "lon": 24.6709577,
+        "tags": {
+          "name": "Sepa",
+          "name:ru": "\u0421\u0435\u043f\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 9.472388303962605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6709577,
+          59.4602317
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692528,
+        "lat": 59.4602845,
+        "lon": 24.6709341,
+        "tags": {
+          "name": "Sepa",
+          "name:ru": "\u0421\u0435\u043f\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 9.266256769497057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6709341,
+          59.4602845
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692542,
+        "lat": 59.4551286,
+        "lon": 24.6811255,
+        "tags": {
+          "name": "Sirbi",
+          "name:ru": "\u0421\u0438\u0440\u0431\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 34.21547642774701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6811255,
+          59.4551286
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692543,
+        "lat": 59.4552253,
+        "lon": 24.6810238,
+        "tags": {
+          "name": "Sirbi",
+          "name:ru": "\u0421\u0438\u0440\u0431\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 49.63430399868107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6810238,
+          59.4552253
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692556,
+        "lat": 59.4533471,
+        "lon": 24.7041737,
+        "tags": {
+          "name": "Sitsi",
+          "name:ru": "\u0421\u0438\u0442\u0441\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 157.2784630620946
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7041737,
+          59.4533471
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692559,
+        "lat": 59.4532549,
+        "lon": 24.7044116,
+        "tags": {
+          "name": "Sitsi",
+          "name:ru": "\u0421\u0438\u0442\u0441\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 193.74481396389749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7044116,
+          59.4532549
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692573,
+        "lat": 59.4416183,
+        "lon": 24.7327406,
+        "tags": {
+          "name": "Telliskivi",
+          "name:ru": "\u0422\u0435\u043b\u043b\u0438\u0441\u043a\u0438\u0432\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 1843.877032809562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7327406,
+          59.4416183
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692586,
+        "lat": 59.4416336,
+        "lon": 24.732381,
+        "tags": {
+          "name": "Telliskivi",
+          "name:ru": "\u0422\u0435\u043b\u043b\u0438\u0441\u043a\u0438\u0432\u0438",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 2161.7031762186193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.732381,
+          59.4416336
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692596,
+        "lat": 59.4440094,
+        "lon": 24.7225041,
+        "tags": {
+          "name": "Volta",
+          "name:ru": "\u0412\u043e\u043b\u044c\u0442\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 51.553418898739125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7225041,
+          59.4440094
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 1575692601,
+        "lat": 59.4440974,
+        "lon": 24.7223881,
+        "tags": {
+          "name": "Volta",
+          "name:ru": "\u0412\u043e\u043b\u044c\u0442\u0430",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 50.35769373186632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7223881,
+          59.4440974
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3164258516,
+        "lat": 59.4332179,
+        "lon": 24.7459219,
+        "tags": {
+          "name": "Vabaduse v\u00e4ljak",
+          "name:ru": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0441\u0432\u043e\u0431\u043e\u0434\u044b",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 20530.964241969596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7459219,
+          59.4332179
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301681,
+        "lat": 59.4137508,
+        "lon": 24.6901368,
+        "tags": {
+          "name": "Aiandi",
+          "public_transport": "stop_position"
+        },
+        "score": 5.988804044658407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6901368,
+          59.4137508
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301682,
+        "lat": 59.4148707,
+        "lon": 24.6911878,
+        "tags": {
+          "name": "Aiandi",
+          "public_transport": "stop_position"
+        },
+        "score": 61.839723785022464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6911878,
+          59.4148707
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301683,
+        "lat": 59.4350339,
+        "lon": 24.7558405,
+        "tags": {
+          "name": "Kaubamaja",
+          "public_transport": "stop_position",
+          "trolleybus": "yes"
+        },
+        "score": 163297.154786146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7558405,
+          59.4350339
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301684,
+        "lat": 59.4177687,
+        "lon": 24.6939003,
+        "tags": {
+          "name": "L\u00f6wenruh",
+          "public_transport": "stop_position"
+        },
+        "score": 43.67730782081751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6939003,
+          59.4177687
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301685,
+        "lat": 59.4010816,
+        "lon": 24.6581398,
+        "tags": {
+          "name": "Mustam\u00e4e",
+          "public_transport": "stop_position"
+        },
+        "score": 14.2862772139768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6581398,
+          59.4010816
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301686,
+        "lat": 59.4333767,
+        "lon": 24.7193249,
+        "tags": {
+          "name": "Ristiku",
+          "public_transport": "stop_position"
+        },
+        "score": 171.53882270504388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7193249,
+          59.4333767
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301687,
+        "lat": 59.4106099,
+        "lon": 24.6872112,
+        "tags": {
+          "name": "S\u00e4\u00e4se",
+          "public_transport": "stop_position"
+        },
+        "score": 7.1966492024933295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6872112,
+          59.4106099
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301688,
+        "lat": 59.4113229,
+        "lon": 24.6878859,
+        "tags": {
+          "name": "S\u00e4\u00e4se",
+          "public_transport": "stop_position"
+        },
+        "score": 4.989831553351427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6878859,
+          59.4113229
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301689,
+        "lat": 59.4314931,
+        "lon": 24.7393319,
+        "tags": {
+          "name": "T\u00f5nism\u00e4gi",
+          "public_transport": "stop_position"
+        },
+        "score": 2427.340910226374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7393319,
+          59.4314931
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301690,
+        "lat": 59.4329125,
+        "lon": 24.746868,
+        "tags": {
+          "name": "Vabaduse v\u00e4ljak",
+          "public_transport": "stop_position"
+        },
+        "score": 25685.223769494885
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.746868,
+          59.4329125
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693301691,
+        "lat": 59.4329573,
+        "lon": 24.746437,
+        "tags": {
+          "name": "Vabaduse v\u00e4ljak",
+          "public_transport": "stop_position"
+        },
+        "score": 28359.351236592076
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.746437,
+          59.4329573
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671326,
+        "lat": 59.3980086,
+        "lon": 24.6752257,
+        "tags": {
+          "name": "Ehitajate tee",
+          "public_transport": "stop_position"
+        },
+        "score": 10.127877769457493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6752257,
+          59.3980086
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671327,
+        "lat": 59.3980735,
+        "lon": 24.6767496,
+        "tags": {
+          "name": "Ehitajate tee",
+          "public_transport": "stop_position"
+        },
+        "score": 9.672764920946642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6767496,
+          59.3980735
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671328,
+        "lat": 59.4345929,
+        "lon": 24.7558872,
+        "tags": {
+          "name": "Kaubamaja",
+          "public_transport": "stop_position"
+        },
+        "score": 60904.504813871084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7558872,
+          59.4345929
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671329,
+        "lat": 59.3970709,
+        "lon": 24.6685547,
+        "tags": {
+          "name": "Keemia",
+          "public_transport": "stop_position"
+        },
+        "score": 52.99106578356532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6685547,
+          59.3970709
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671330,
+        "lat": 59.4288667,
+        "lon": 24.7315591,
+        "tags": {
+          "name": "Koidu",
+          "public_transport": "stop_position"
+        },
+        "score": 1450.9612612789417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7315591,
+          59.4288667
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671331,
+        "lat": 59.4245369,
+        "lon": 24.7172343,
+        "tags": {
+          "name": "Koskla",
+          "public_transport": "stop_position"
+        },
+        "score": 17.061287480843063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7172343,
+          59.4245369
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671332,
+        "lat": 59.4256673,
+        "lon": 24.7179987,
+        "tags": {
+          "name": "Koskla",
+          "public_transport": "stop_position"
+        },
+        "score": 28.786926960996148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7179987,
+          59.4256673
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671334,
+        "lat": 59.4133035,
+        "lon": 24.7081136,
+        "tags": {
+          "name": "Linnu tee",
+          "public_transport": "stop_position"
+        },
+        "score": 160.1455321943856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7081136,
+          59.4133035
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671335,
+        "lat": 59.4146057,
+        "lon": 24.7087213,
+        "tags": {
+          "name": "Linnu tee",
+          "public_transport": "stop_position"
+        },
+        "score": 22.230831509454777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7087213,
+          59.4146057
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671336,
+        "lat": 59.3998062,
+        "lon": 24.6606361,
+        "tags": {
+          "name": "Mustam\u00e4e",
+          "public_transport": "stop_position"
+        },
+        "score": 4.182137121988417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6606361,
+          59.3998062
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671337,
+        "lat": 59.4011377,
+        "lon": 24.6577893,
+        "tags": {
+          "name": "Mustam\u00e4e",
+          "public_transport": "stop_position"
+        },
+        "score": 24.357154782203608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6577893,
+          59.4011377
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671339,
+        "lat": 59.4191175,
+        "lon": 24.7123093,
+        "tags": {
+          "name": "Tedre",
+          "public_transport": "stop_position"
+        },
+        "score": 15.582576923150345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7123093,
+          59.4191175
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671340,
+        "lat": 59.419824,
+        "lon": 24.7130964,
+        "tags": {
+          "name": "Tedre",
+          "public_transport": "stop_position"
+        },
+        "score": 78.42845474089675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7130964,
+          59.419824
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693671341,
+        "lat": 59.422617,
+        "lon": 24.7153529,
+        "tags": {
+          "name": "Tihase",
+          "public_transport": "stop_position"
+        },
+        "score": 9.791973865601232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7153529,
+          59.422617
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693718862,
+        "lat": 59.4000279,
+        "lon": 24.6795567,
+        "tags": {
+          "name": "Keskuse",
+          "public_transport": "stop_position"
+        },
+        "score": 2.8743082760459893
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6795567,
+          59.4000279
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693718863,
+        "lat": 59.3999978,
+        "lon": 24.671898,
+        "tags": {
+          "name": "Manni",
+          "public_transport": "stop_position"
+        },
+        "score": 14.946725400966482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.671898,
+          59.3999978
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3693718864,
+        "lat": 59.4337414,
+        "lon": 24.7237307,
+        "tags": {
+          "name": "Tehnika",
+          "public_transport": "stop_position"
+        },
+        "score": 121.77857379441788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7237307,
+          59.4337414
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3815505724,
+        "lat": 59.4248538,
+        "lon": 24.7968315,
+        "tags": {
+          "name": "\u00dclemiste jaam",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 81.62972584332519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7968315,
+          59.4248538
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3815505727,
+        "lat": 59.4248377,
+        "lon": 24.796902,
+        "tags": {
+          "name": "\u00dclemiste jaam",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 81.99901955444012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.796902,
+          59.4248377
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3851784032,
+        "lat": 59.4336606,
+        "lon": 24.7527793,
+        "tags": {
+          "name": "Estonia",
+          "public_transport": "stop_position",
+          "trolleybus": "yes"
+        },
+        "score": 66886.99542206463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7527793,
+          59.4336606
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 3851784035,
+        "lat": 59.4344036,
+        "lon": 24.7559104,
+        "tags": {
+          "name": "Kaubamaja",
+          "public_transport": "stop_position",
+          "trolleybus": "yes"
+        },
+        "score": 47477.078172564936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7559104,
+          59.4344036
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 4031085096,
+        "lat": 59.4330048,
+        "lon": 24.7620046,
+        "tags": {
+          "name": "Tornim\u00e4e",
+          "network": "Tallinna Linnatransport",
+          "public_transport": "stop_position"
+        },
+        "score": 12733.105858652592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7620046,
+          59.4330048
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 4031085097,
+        "lat": 59.4337282,
+        "lon": 24.7604047,
+        "tags": {
+          "name": "Tornim\u00e4e",
+          "network": "Tallinna Linnatransport",
+          "public_transport": "stop_position"
+        },
+        "score": 12472.163519448166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7604047,
+          59.4337282
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 4384288725,
+        "lat": 59.4408257,
+        "lon": 24.7533241,
+        "tags": {
+          "name": "Kanuti",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "start_date": "2016-09",
+          "tram": "yes"
+        },
+        "score": 10371.928885869302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7533241,
+          59.4408257
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 4384288726,
+        "lat": 59.4410035,
+        "lon": 24.7532195,
+        "tags": {
+          "name": "Kanuti",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "start_date": "2016-09",
+          "tram": "yes"
+        },
+        "score": 8922.989644055842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7532195,
+          59.4410035
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "type": "node",
+        "id": 4422934455,
+        "lat": 59.4421282,
+        "lon": 24.7415768,
+        "tags": {
+          "name": "Balti jaam",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "score": 2076.1663725495587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7415768,
+          59.4421282
+        ]
+      },
+      "type": "Feature"
+    }
+  ]
+}
